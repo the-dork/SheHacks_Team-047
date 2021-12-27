@@ -1,1 +1,2 @@
-# Email_Bot
+# KURAMA
+An Email Bot
